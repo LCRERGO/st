@@ -1,3 +1,16 @@
+/*
+ *     _   __  _                __ 
+ *    / | / / (_)___  _________/ / 
+ *   /  |/ / / / __ \/ ___/ __  /  
+ *  / /|  / / / /_/ / /  / /_/ /   
+ * /_/ |_/_/ /\____/_/   \__,_/    
+ *      /___/                      
+ *       
+ * Author: Lucas Cruz dos Reis(L.C.R.) 
+ * Github: https://github.com/LCRERGO 
+*/
+
+
 /* See LICENSE for license details. */
 #include <errno.h>
 #include <math.h>

@@ -1,15 +1,16 @@
 st - simple terminal(Njord build)
 ---------------------------------
-st is a simple terminal emulator for X which sucks less.
-
-
-Requirements
-------------
-In order to build st you need the Xlib header files. This a custom build of st,
+![Njord's Logo](NjordLogo.png)
+st is a simple terminal emulator for X which sucks less. This a custom build of st,
 to which has been applied the following patches and increments:
 
 1. Scrollback patch
 2. Alpha patch
+
+
+Requirements
+------------
+In order to build st you need the Xlib header files.
 
 
 Installation
