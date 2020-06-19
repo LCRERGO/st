@@ -6,6 +6,7 @@ to which has been applied the following patches and increments:
 
 1. Scrollback patch
 2. Alpha patch
+3. Xresources patch
 
 
 Requirements
