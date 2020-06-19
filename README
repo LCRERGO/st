@@ -9,6 +9,7 @@ In order to build st you need the Xlib header files. This a custom build of st,
 to which has been applied the following patches and increments:
 
 1. Scrollback patch
+2. Alpha patch
 
 
 Installation
