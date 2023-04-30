@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Simple Terminal
+Comment=Use the command line
+Keywords=shell;prompt;command;commandline;cmd;
+TryExec=st
+Exec=st
+Icon=terminal
+Type=Application
+Categories=System;TerminalEmulator;
